@@ -3,7 +3,7 @@ Participation in 100 Days of Commits
 
 August 1st - November 9th 2016
 
-Read our [medium post) () about the launch of 100 days of commits
+Read our [medium post] (https://medium.com/@WomenWhoCodeDC/100-days-of-commits-60af0abe8825#.jp9pawugx) about the launch of 100 days of commits
 
 ## 100 days of Commits pledge
 I pledge to commit to 100 days of commits on github. I will post the commit I make each day to github and post a screenshot of my commit on Twitter or Instagram with the hashtag #100daysofcommits.
